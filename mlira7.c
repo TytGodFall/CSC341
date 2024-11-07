@@ -1,3 +1,11 @@
+/*
+ *Name: Matthew Lira
+ *Professor Garrett Poppe
+ *Class: CSC-341-40
+ *Date: October 1 24
+ *Assignment: Lab #7
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
